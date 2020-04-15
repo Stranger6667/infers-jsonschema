@@ -3,6 +3,11 @@ name = "infers-jsonschema"
 version = "0.1.0"
 authors = ["Dmitry Dygalo <dadygalo@gmail.com>"]
 edition = "2018"
+license = "MIT"
+readme = "README.md"
+description = "A crate for inferring JSON Schema from input data"
+repository = "https://github.com/Stranger6667/infers-jsonschema"
+keywords = ["jsonschema", "inference"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
